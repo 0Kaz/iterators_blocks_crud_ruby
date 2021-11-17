@@ -142,7 +142,7 @@ numbers.reject {|e| e%2 == 0}
 
 
 ## reduce 
-Reduce help us redue an array into a single value. For each element of the array, the block gets two arguments an ```accumulator``` and ```current element``` . 
+Reduce help us bring down an array into a single value. For each element of the array, the block gets two arguments an ```accumulator``` and ```current element``` . 
 
 One simple example is to sum an array with reduce
 
